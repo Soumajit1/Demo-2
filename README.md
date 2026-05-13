@@ -22,7 +22,7 @@ You can return the answer in any order.
 
  
 
-Example 1:
+
 
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
@@ -49,6 +49,3 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
  
 
 Seen this question in a real interview before?
-1/6
-Yes
-No
