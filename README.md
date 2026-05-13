@@ -49,6 +49,4 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
  
 
 Seen this question in a real interview before?
-1/6
-Yes
-No
+
