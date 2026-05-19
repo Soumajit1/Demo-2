@@ -5,12 +5,9 @@ hello
 good
 hii
 hello
-hellhello
-hello
-hellohello
+hellhellohello
 hello
 hello
-okeyy
 okeyy
 hello
 okeyy
